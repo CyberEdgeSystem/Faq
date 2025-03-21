@@ -1,1 +1,1 @@
-Faq site
+Module FAQ for site to help people answer their questions. Site have common questions and answers on it.
